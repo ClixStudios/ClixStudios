@@ -3,6 +3,7 @@
 <div>
   <h2 align="center">Where I've Worked</h2>
   <ul>
+    <li>Digital Creative Developer @ <a href="https://blynk.co.uk/">Blynk</a></li>
     <li>Software/Web Developer @ <a href="https://www.primeboard.org/">Primeboard</a> - <a href="https://github.com/PrimeBoard/">GitHub</a></li>
     <li>Junior Web Developer @ <a href="https://www.dayonetech.com/">Day One Tech</a></li>
   </ul>
