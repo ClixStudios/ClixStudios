@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5dab0688-a450-474b-8c01-7dfcc61348b5)<h1 align="center">Hello World ✌️</h1>
+<h1 align="center">Hello World ✌️</h1>
 
 <div>
   <h2 align="center">Where I've Worked</h2>
